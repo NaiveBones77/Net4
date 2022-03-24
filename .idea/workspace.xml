@@ -10,11 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="69" column="18" lean-forward="true" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+            <state relative-caret-position="201">
+              <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -34,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -56,7 +56,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="C:/" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -198,15 +198,15 @@
       <workItem from="1648060304706" duration="1489000" />
       <workItem from="1648062318774" duration="507000" />
       <workItem from="1648128500803" duration="1032000" />
-      <workItem from="1648150632037" duration="679000" />
+      <workItem from="1648150632037" duration="1882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3707000" />
+    <option name="totallyTimeSpent" value="4910000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
@@ -248,7 +248,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Network4$core.coverage" NAME="core Coverage Results" MODIFIED="1648128764616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Network4$test.coverage" NAME="test Coverage Results" MODIFIED="1648151257029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Network4$test.coverage" NAME="test Coverage Results" MODIFIED="1648151741082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38/Lib/codecs.py">
@@ -265,12 +265,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/core.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        <state relative-caret-position="201">
+          <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -285,12 +285,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="69" column="18" lean-forward="true" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
